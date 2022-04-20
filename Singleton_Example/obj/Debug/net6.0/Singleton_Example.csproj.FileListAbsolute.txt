@@ -1,0 +1,15 @@
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\bin\Debug\net6.0\Singleton_Example.exe
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\bin\Debug\net6.0\Singleton_Example.deps.json
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\bin\Debug\net6.0\Singleton_Example.runtimeconfig.json
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\bin\Debug\net6.0\Singleton_Example.dll
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\bin\Debug\net6.0\Singleton_Example.pdb
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.csproj.AssemblyReference.cache
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.AssemblyInfoInputs.cache
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.AssemblyInfo.cs
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.csproj.CoreCompileInputs.cache
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.dll
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\refint\Singleton_Example.dll
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.pdb
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\Singleton_Example.genruntimeconfig.cache
+C:\Users\Scooby\source\repos\Patterns_Ana\Singleton_Example\obj\Debug\net6.0\ref\Singleton_Example.dll
